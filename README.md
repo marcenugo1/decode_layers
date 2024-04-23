@@ -1,6 +1,6 @@
 
 
-# Exploring the Effects of Outcome of Each Decoder Layer of a Large Language Model for Text Generation 
+# Exploring the Effects of Outcome of Each Decoder Layer of a Large Language Model
 
 Goal: Understand the effects of layers on generation. The goal is to identify, as the number of layer progresses, how the generated outcome improves. 
 
