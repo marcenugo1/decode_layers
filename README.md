@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ### Visualization and Evaluation
 
-- torch.ipynb: Visualize and evaluate the probabilities of each token on each layer. Compare how the tokens probabilites fluctuate on each layer. Evaluate Metrics on Layers 8,16,24 and 32. 
+- torch.ipynb: Visualize and evaluate token probabilities of each layer until the final decision on layer 32. Compare how the tokens probabilites fluctuate on each layer. Evaluate Metrics on Layers 8,16,24 and 32. 
 - inseq.ipynb: Visualize the generated top tokens guess probabilites accross all given layers. 
 
 ### References
