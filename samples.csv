@@ -1,0 +1,4 @@
+output,instruction
+print("This is an example sentence"),Suggest a Python code to print the following text in the output: "This is a example sentence"
+SELECT * FROM employees WHERE salary > 10000,Finish a Python program to select all employees with a salary greater than 10,000 SELECT *
+print("Hello World"),Edit the following code snippet to print out 'Hello World' instead of 'Hello Python' print('Hello Python'). Just reply with the answer
